@@ -3,9 +3,9 @@ Eventz is a framework for naming calendar events.
 
 ## Formatting
 
-Eventz divides event titles into four main elements: activity, location, topics, and participants. 
+Eventz divides event titles into four main elements: `activity`, `location`, `topics`, and `participants`. 
 
-The primary activity in the event title is set apart from location, topics, and participants with a colon, whereas location, topics, and participants are separated with a hyphen.
+The primary `activity` in the event title is set apart from `location`, `topics`, and `participants` with a colon, whereas `location`, `topics`, and `participants` are separated with a hyphen.
 
 ```
 [Activity]: [Location] - [Topic] - [Pariticipants]
