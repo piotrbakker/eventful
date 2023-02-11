@@ -1,2 +1,2 @@
 # Eventz
-Framework for naming calendar events.
+Eventz is a framework for naming calendar events.
