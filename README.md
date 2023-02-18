@@ -16,7 +16,7 @@ Note: each element should be used with restraint, insofar as it is needed to pro
 ## Core principles
 
 * Use title case capitalization i.e., capitalize the first letter of each significant word in the event title.
-* When listing pariticipants start with event host.
+* List pariticipants in alphabetical order.
 * Avoid using special characters to simplify editing on the go.
 * Avoid using abbreviations, acronyms, or technical jargon unless they are widely understood.
 
