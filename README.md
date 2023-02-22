@@ -8,7 +8,7 @@ Eventz divides event titles into four main elements: `activity`, `location`, `to
 The primary `activity` in the event title is set apart from `location`, `topics`, and `participants` with a colon, whereas `location`, `topics`, and `participants` are separated with a hyphen.
 
 ```
-[Activity]: [Location] - [Topic] - [Pariticipants]
+[Activity]: [Topic] - [Location] - [Pariticipants]
 ```
 
 Note: each element should be used with restraint, insofar as it is needed to provide appropriate context. For example, it can be self-evident what the primary activity is from either the event location or topic.
@@ -31,8 +31,8 @@ Product Design - Bruce & Selina
 Marketing Strategy - Bruce & Selina
 ```
 ```
-Workshop: WeWork Market St - Marketing Strategy - Executive Team
-Off-site: Farallon Islands - Marketing Strategy - Executive Team
+Workshop: Marketing Strategy - WeWork Market St - Executive Team
+Off-site: Marketing Strategy - Farallon Islands - Executive Team
 ```
 ```
 Intro: Bruce & Selina
