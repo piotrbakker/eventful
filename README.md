@@ -40,7 +40,7 @@ Intro: Bruce & Team
 ```
 ```
 Walk: Golden Gate Park - Bruce & Selina
-Picknic: Golden Gate Park - Bruce & Selina
+Picnic: Golden Gate Park - Bruce & Selina
 ```
 ```
 Drive: San Francisco - San Jose
