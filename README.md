@@ -23,8 +23,8 @@ Note: each element should be used with restraint, insofar as it is needed to pro
 ## Examples
 
 ```
-Phill’s Coffee - Bruce & Selina
-Phill’s Coffee - Event Planning - Bruce & Selina
+Phill’s Coffee - Bruce & Selina 
+Event Planning - Phill’s Coffee - Bruce & Selina
 ```
 ```
 Product Design - Bruce & Selina
