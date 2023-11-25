@@ -13,7 +13,7 @@ The primary `activity` in the event title is set apart from `location`, `topics`
 
 Note: each element should be used with restraint, insofar as it is needed to provide appropriate context. For example, it can be self-evident what the primary activity is from either the event location or topic.
 
-## Core principles
+## Principles
 
 * Use title case capitalization i.e., capitalize the first letter of each significant word in the event title.
 * List pariticipants in alphabetical order.
