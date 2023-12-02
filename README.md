@@ -1,7 +1,7 @@
 # Eventz
 Eventz is a framework for naming calendar events.
 
-## Basic Formatting
+## Formatting
 
 Eventz uses four main values: `activity`, `location`, `topics`, and `participants`. 
 
