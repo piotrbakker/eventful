@@ -1,9 +1,9 @@
-# Eventz
-Eventz is a framework for naming calendar events.
+# Eventful
+Eventful is a framework for naming calendar events.
 
 ## Formatting
 
-Eventz uses four main values: `activity`, `location`, `topics`, and `participants`. 
+Eventful uses four main values: `activity`, `location`, `topics`, and `participants`. 
 
 Two types of separators are added to enhance readability: `activity` values are separated from `location`, `topics`, and `participants` with a **colon**, whereas `location`, `topics`, and `participants` values are separated with a **hyphen**.
 
@@ -50,4 +50,4 @@ Flight: San Francisco - San Diego
 
 ## License
 
-Eventz is available under [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/). Please link back to the source when you share and / or adapt any of the contents.
+Eventful is available under [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by/4.0/). Please link back to the source when you share and / or adapt any of the contents.
