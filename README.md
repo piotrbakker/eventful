@@ -11,7 +11,7 @@ Two types of separators are added to enhance readability: `activity` values are 
 [Activity]: [Topic] - [Location] - [Pariticipants]
 ```
 
-Certain values may be omitted from the title, insofar as they are needed to provide appropriate context. For example, it may be sufficient to mention only the event location or topic. In that case, the activity value may be dropped. The purpose is to strike a balance between brevity and clarity of the event title.
+Certain values may be omitted from the title, insofar as they are needed to provide appropriate context. For example, it may be sufficient to mention only the event `location` or `topic`. In that case, the `activity` value may be dropped. The purpose is to strike a balance between brevity and clarity of the event title.
 
 ## Principles
 
